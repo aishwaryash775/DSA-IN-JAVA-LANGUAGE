@@ -13,6 +13,8 @@ public class BufferReader {
         float f= Float.parseFloat(br.readLine());
         System.out.println(f);  
         br.close();
+
+        
     }
     }
 
