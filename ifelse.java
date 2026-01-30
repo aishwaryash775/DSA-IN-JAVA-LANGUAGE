@@ -20,3 +20,6 @@ public class ifelse{
         sc.close();
     }
 }
+
+
+
