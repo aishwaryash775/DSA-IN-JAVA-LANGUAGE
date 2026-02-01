@@ -17,6 +17,6 @@ public class fibonacci {
          }
 
             System.out.println(b);
-        
+        in.close();
   } 
 }
