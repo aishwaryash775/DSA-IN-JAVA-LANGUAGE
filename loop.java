@@ -7,14 +7,19 @@ public class loop{
         //     System.out.println("numbers are:"+num);
 //  
         //      print from 1 to n 
-             Scanner in = new Scanner(System.in);
-             System.out.print("Enter a number: ");
-             int n = in.nextInt();
-             for(int num=1; num <=n ;num++){
-                System.out.println("numbers are:"+ num + " ");
+            //  Scanner in = new Scanner(System.in);
+            //  System.out.print("Enter a number: ");
+            //  int n = in.nextInt();
+            //  for(int num=1; num <=n ;num++){
+                // System.out.println("numbers are:"+ num + " ");
 //    
-in.close();
+                int i =101;
+               do{
+                    System.out.println("hello");
+                    i++;
+                }while(i<=100);
+// in.close();
                 
         }
     }
-}
+  
