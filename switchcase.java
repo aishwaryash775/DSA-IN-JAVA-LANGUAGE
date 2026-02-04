@@ -23,7 +23,7 @@ public class switchcase {
                 break;
             default:
                 System.out.println("Please enter a valid fruit");
-
+        in.close();
         }
     }
 }
